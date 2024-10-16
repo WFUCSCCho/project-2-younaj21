@@ -66,6 +66,7 @@ Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot th
 
 BST vs. AVL Tree running time (insertion):
 (insert here)
+![Sorted Insert Time BST vs AVL.png](src%2FSorted%20Insert%20Time%20BST%20vs%20AVL.png)
 
 BST vs. AVL Tree running time (search):
 (insert here)
